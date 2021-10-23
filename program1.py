@@ -1,6 +1,6 @@
 """
 A simple program that asks for name, age and address.
-The details will be displayed in a certain format.
+The details entered will be displayed in a certain format at the end.
 """
 
 #These variables are for the needed details
