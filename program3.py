@@ -9,8 +9,8 @@ price = int(input('Enter the price of the apple: '))
 
 #These variables contains the expression to get
 #the maximum apple you can afford as well as your change.
-maxApple = int((money/price))
-change = int((money - maxApple*price))
+maxApple = (money//price)
+change = (money - maxApple*price)
 
 #This statement displays the maximum 
 #apples you have and your change.
